@@ -1,3 +1,3 @@
 <template>
-    <h1>Inico</h1>
+    <h1>Inicio</h1>
 </template>
