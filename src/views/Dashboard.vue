@@ -7,6 +7,7 @@ import { useRouter } from 'vue-router'
 const rutas = useRouter()
 const usuarioDatos = ref(null)
 
+
 //validamos que el usuario este logeado para ingresar al dashboard
 onMounted(async () => {
     const auth = getAuth()
